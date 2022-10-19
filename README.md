@@ -4,8 +4,6 @@ These VIZs are created by Achala Srivastava on Tableau.
 
 TFL Bus Safety - 
 
-Desc: Transport for London produces quarterly reports that provide analysis of incidents on the London bus network
+Desc: Transport for London produces quarterly reports that provide analysis of incidents on the London bus network. This was a Makeover Monday project (2018/W51:London Bus Safety Performance).
 
-Source: Data.world (2018/W51:London Bus Safety Performance)
-
-Link of Original Dataset: https://data.world/makeovermonday/2018w51 
+Source & link : Data.world | https://data.world/makeovermonday/2018w51 
